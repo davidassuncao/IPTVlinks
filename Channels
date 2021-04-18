@@ -10494,15 +10494,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d
 #EXTINF:-1 tvg-id="NogoumFMTV.eg" tvg-name="Nogoum FM TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://storage.googleapis.com/nogoumfm-eu-web/1/2019/12/logo-nogoum-1.png" tvg-url="" group-title="",Nogoum FM TV (180p)
 https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="North Carolina: Greenville - Asheville" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",North Carolina: Greenville - Asheville
-https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="North Carolina: Greenville - New Bern" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",North Carolina: Greenville - New Bern
-https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="North Carolina: Raleigh - Durham" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",North Carolina: Raleigh - Durham
-https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Nosey" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5aec96ec5126c2157123c657/colorLogoPNG.png" tvg-url="" group-title="",Nosey
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -10542,30 +10533,6 @@ http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/ha
 #EXTINF:-1 tvg-id="OffenerKanalSalzwedel.de" tvg-name="Offener Kanal Salzwedel" tvg-country="DE" tvg-language="German" tvg-logo="" tvg-url="" group-title="",Offener Kanal Salzwedel (1080p)
 http://62.113.210.250/medienasa-live/ok-salzwedel_high/HasBahCa.m3u8?bitrate=800
 
-#EXTINF:-1 tvg-id="" tvg-name="Ohio: Cincinnati" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",Ohio: Cincinnati
-https://dai.google.com/linear/hls/event/ZaLvGYKiTfuSYgJuBZD67Q/master.m3u8
-
-#1
-https://dai.google.com/linear/hls/event/wV5ExXM9RxabBzbWnVv9RA/master.m3u8
-
-#2
-https://dai.google.com/linear/hls/event/QLfrYVtERpCnzM7qE_PkUw/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ohio: Dayton" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",Ohio: Dayton
-https://dai.google.com/linear/hls/event/nqvIiznDQO60CBNaJ5mmdQ/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ohio: Toledo" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",Ohio: Toledo
-https://dai.google.com/linear/hls/event/1QSZA8OjS1y2Q64uTl5vWQ/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ohio: Wheeling - Steubenville" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",Ohio: Wheeling - Steubenville
-https://dai.google.com/linear/hls/event/dcaYfE2nRnqC6eAvCFWfzQ/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Oklahoma: Oklahoma City" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",Oklahoma: Oklahoma City
-https://dai.google.com/linear/hls/event/pRd-k6tZSiCRsw_f51Vcvg/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Oklahoma: Tulsa" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",Oklahoma: Tulsa
-https://dai.google.com/linear/hls/event/5kbHZRGGS--RHp41xaUJHQ/master.m3u8
-
 #EXTINF:-1 tvg-id="OmidJavedan.ir" tvg-name="Omid Javedan" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/omidjavedan.jpg" tvg-url="" group-title="",Omid Javedan (480p)
 https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/playlist.m3u8
 
@@ -10586,18 +10553,6 @@ http://stream2.tv5.com.ph:1935/live3/smil:onesports.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ontario Parliamentary Network (FR)" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/BQWfhEr.jpg" tvg-url="" group-title="",Ontario Parliamentary Network (FR)
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
-
-#1
-https://dai.google.com/linear/hls/event/Ep4QBzH-TKW0iLhPVGuCvA/master.m3u8
-
-#2
-https://dai.google.com/linear/hls/event/bERQw8-YRoK3MtJ0UUaI5w/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Oregon: Medford" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",Oregon: Medford
-https://dai.google.com/linear/hls/event/1g9qH9IOSIGGwAqw8fPzmw/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Oregon: Portland" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",Oregon: Portland
-https://dai.google.com/linear/hls/event/npdISdLWSIa1E_j7NCUDBg/master.m3u8
 
 #EXTINF:-1 tvg-id="OrientRadioPlusPalestineMubasher.ps" tvg-name="Orient Radio + Palestine Mubasher" tvg-country="PS" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" tvg-url="" group-title="",Orient Radio + Palestine Mubasher
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
@@ -10646,18 +10601,6 @@ https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PeaceTVAlbanianPeaceTVShqip.xk" tvg-name="Peace TV Albanian (Peace TV Shqip)" tvg-country="XK" tvg-language="Albanian" tvg-logo="https://i.imgur.com/l8Z9BRE.png" tvg-url="" group-title="",Peace TV Albanian (Peace TV Shqip)
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Pennsylvania: Harrisburg" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",Pennsylvania: Harrisburg
-https://dai.google.com/linear/hls/event/W_NyV_9eQ-qa0XDSMfYkEg/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Pennsylvania: Johnstown - Altoona" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",Pennsylvania: Johnstown - Altoona
-https://dai.google.com/linear/hls/event/BXZlH0kXTeGczlQ49-0QFQ/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Pennsylvania: Pittsburgh" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",Pennsylvania: Pittsburgh
-https://dai.google.com/linear/hls/event/qJU_NkxXQoCbACvG5BWrXQ/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Pennsylvania: Wilkes Barre - Scranton" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/7JgPJxx.png" tvg-url="" group-title="",Pennsylvania: Wilkes Barre - Scranton
-https://dai.google.com/linear/hls/event/jlf2tRLPTg2xjMtKe5ey-w/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Action" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Action
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -10851,15 +10794,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d1ce51db
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Suspense" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5f15e281b0b8840007324b55/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Suspense
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f15e281b0b8840007324b55/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Teen" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Teen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV TEEN SERIES" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV TEEN SERIES
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Teen Stars" tvg-country="" tvg-language="" tvg-logo="https://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Teen Stars
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Thrillers" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" tvg-url="" group-title="",Pluto TV Thrillers
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -10883,9 +10817,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d49455df
 
 #EXTINF:-1 tvg-id="PNN.kh" tvg-name="PNN" tvg-country="KH" tvg-language="Khmer" tvg-logo="https://i.imgur.com/1xZmAvQ.jpg" tvg-url="" group-title="",PNN (360p)
 http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="pocket.watch" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5dae0a40e8ee0d000975e99b/colorLogoPNG.png" tvg-url="" group-title="",pocket.watch
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-id="" tvg-name="Power Nation (US)" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/iJmj6zC.png" tvg-url="" group-title="",Power Nation (US)
 https://rtmtv-samsung.samsung.wurl.com/manifest/playlist.m3u8
@@ -10929,9 +10860,6 @@ http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 #EXTINF:-1 tvg-id="RCG3Saltillo.mx" tvg-name="RCG 3 Saltillo" tvg-country="MX" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",RCG 3 Saltillo (360p)
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Real America's Voice" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png" tvg-url="" group-title="",Real America's Voice
-http://plutotv.vo.llnwd.net/m/hlslive/amvoice.m3u8?chname=amvoice&pub=0
-
 #EXTINF:-1 tvg-id="" tvg-name="Real Stories" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/KOkWP6i.jpg" tvg-url="" group-title="",Real Stories
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 
@@ -10952,9 +10880,6 @@ https://streamer1.streamhost.org/salive/GMIredadvenirm/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="RedADVenir.bo" tvg-name="Red ADVenir" tvg-country="BO" tvg-language="Spanish" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Red-Advenir-100x70.png" tvg-url="" group-title="",Red ADVenir (360p)
 https://streamer1.streamhost.org/salive/GMIredadvenirm/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Red Apple 21 - Fairfax County Public Schools - Virginia" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/ICcQUCH.png" tvg-url="" group-title="",Red Apple 21 - Fairfax County Public Schools - Virginia
-https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rede Brasil - TV Marajoara (PA)" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/3XdPAU0.png" tvg-url="" group-title="",Rede Brasil - TV Marajoara (PA)
 http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
@@ -11129,6 +11054,7 @@ https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
 
 #EXTINF:-1 tvg-id="SouryanaRadio.sy" tvg-name="Souryana Radio" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eR8QSEt.png" tvg-url="" group-title="",Souryana Radio (270p)
 http://82.137.248.16:1935/Souryana/stream10112020/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Space 1999" tvg-country="" tvg-language="" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/aaaa25c9-d98a-46b8-8dca-3851ab93d3ee-small3x1_STIRR_Logo_0320_SPACE1999_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" tvg-url="" group-title="",Space 1999
 https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 
